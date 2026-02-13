@@ -14,7 +14,7 @@ function startLove() {
    TEXTO TYPEWRITER
 ============================== */
 const message =
-"Desde que llegaste a mi vida, todo es más bonito. Gracias por cada sonrisa, cada abrazo y cada momento juntos. Eres mi hogar, mi paz y mi amor eterno. Te dedico esta canción, pero más que eso, quiero recordarte que deseo dedicar mi vida a ser parte de la tuya. Te amo mi guchee ❤️❤️";
+"Desde que llegaste a mi vida, todo es más bonito. Gracias por cada sonrisa, cada abrazo y cada momento juntos. Eres mi hogar, mi paz y mi amor eterno. Te dedico esta canción, pero más que eso, quiero recordarte que deseo dedicar mi vida a ser parte de la tuya. Te amo mi guchee ❤️";
 
 let i = 0;
 
@@ -115,3 +115,4 @@ function createPetal() {
 }
 
 setInterval(createPetal, 250);
+
