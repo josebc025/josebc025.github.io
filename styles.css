@@ -55,7 +55,7 @@ h1,h2{
 }
 
 .love-title{
-    font-size:10rem;
+    font-size:7rem;
     animation: float 3s ease-in-out infinite, glow 2s infinite alternate;
 }
 
@@ -141,7 +141,7 @@ p, #typeText, footer{
 .gallery img,
 .gallery video{
     width:100%;
-    height:320px;
+    height:290px;
     object-fit:cover;
     border-radius:20px;
     box-shadow:0 10px 25px rgba(0,0,0,.4);
